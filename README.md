@@ -1,31 +1,27 @@
-# Hi, I'm Avishi.
+# Avishi Mittal
 
-I build systems that turn sustainability data into decisions.
+Investment Data & Research Analytics | MSCI Quantitative Index Research
 
-B.Tech CSE, SRM Institute (CGPA 9.49/10.00) | Year-long Quantitative Index Research intern at MSCI Inc.
+I build and validate financial-data and index-research workflows using Python, SQL, and Power BI.
 
-## What I did at MSCI
+## Experience
 
-- **Implemented and validated** 3 ETF-eligible thematic equity indexes end-to-end in Python and SQL.
-- **Supported 20+ rules-based equity indexes** across 7 institutional mandates via QC scripting and ESG-screened strategy validation.
-- **Built Python validation tooling** for ESG screening logic, daily price returns, and portfolio diagnostics.
-- **Implemented** a carbon-intensity reduction algorithm achieving **30% GHG intensity reduction** vs. benchmark.
+**Quantitative Index Research Solutions Intern, MSCI**  
+- Implemented and validated ETF-eligible thematic equity indexes end to end using Python and SQL.  
+- Supported rules-based equity indexes across institutional mandates through QC scripting and ESG-screened strategy validation.  
+- Built Python validation tooling for ESG screening logic, daily price returns, and portfolio diagnostics.  
+- Implemented a carbon-intensity reduction workflow targeting lower GHG intensity versus benchmark.
 
-## What I'm building
+## Featured projects
 
-**[ESG-Screener](https://github.com/a-wishie/ESG-Screener)** — 341bps max drawdown improvement via rules-based exclusions.
+- **Multi-Asset Factor Strategy** - systematic multi-asset factor research and backtesting framework.  
+- **Sector-Neutral Multi-Factor Equity Simulation** - tests the effect of sector neutralization on factor-performance metrics.  
+- **Thematic Index Builder** - NLP-assisted workflow for clean-energy index construction.  
+- **ESG Screener** - rules-based exclusion and portfolio-impact analysis.
 
-**[Multi-Asset-Factor-Strategy](https://github.com/a-wishie/Multi-Asset-Factor-Strategy)** — 17.31% return, 0.66 Sharpe with ESG overlay and FX hedging.
+## Target roles
 
-**[SectNeut-Multi-Factor-Equity-Sim](https://github.com/a-wishie/SectNeut-Multi-Factor-Equity-Sim)** — IR improved from 0.67 to 0.92 after sector neutralization.
-
-**[Thematic-Index-Builder](https://github.com/a-wishie/Thematic-Index-Builder)** — NLP relevance scoring for MSCI-style clean energy index construction.
-
-**[DoomIndex](https://github.com/a-wishie/DoomIndex)** — GeoJSON disaster response dashboard with React, Flask, and Gemini LLM.
-
-## Tech Stack
-
-Python, Pandas, NumPy, SQL, Excel, Tableau, Git, Jupyter
+Investment Data | Research Analytics | Index Operations | Index Research | Risk Data | Performance Analytics
 
 ## Connect
 
